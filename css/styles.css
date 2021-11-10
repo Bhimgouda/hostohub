@@ -1,4 +1,7 @@
 /** @format */
+
+@import "/css/normalize.css";
+
 :root {
   --color-primary: #2584ff;
   --color-seconadary: #00d9ff;
