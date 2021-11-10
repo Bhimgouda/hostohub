@@ -371,8 +371,6 @@ a {
 }
 .plan--popular {
   transform: scale(1.1);
-  margin-top: 4rem;
-  margin-bottom: 4rem;
 }
 .plan--popular .card__header {
   position: relative;
@@ -400,11 +398,6 @@ a {
   .plan__billing-cycle {
     font-size: 1.6rem;
   }
-  .plan--popular {
-    transform: scale(1.1);
-    margin-top: 0rem;
-    margin-bottom: 0rem;
-  
 }
 
 /* Media */
